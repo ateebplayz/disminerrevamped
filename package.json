@@ -1,0 +1,21 @@
+{
+  "name": "truckcordreal",
+  "version": "1.0.0",
+  "description": "This template provides an easy way to use NodeJS v16 on Replit! As of writing, NodeJS repls have Node v12, which is several years out of date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.0",
+    "dot-env": "^0.0.1",
+    "dotenv": "^10.0.0",
+    "economy-discord": "^0.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "quick.db": "^7.1.3"
+  }
+}
